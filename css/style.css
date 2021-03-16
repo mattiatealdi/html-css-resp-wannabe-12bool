@@ -74,11 +74,15 @@ img {
 }
 
 
-.padding-30{
-  padding: 0 30px;
-}
+@media all and (max-width: 767px){
+
+  .padding-30{
+    padding: 0 30px;
+  }
 
 
-.background-yellow{
-  background: #F2F2CD;
+  .background-yellow{
+    background: #F2F2CD;
+  }
+
 }

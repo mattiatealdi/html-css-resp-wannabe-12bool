@@ -21,6 +21,7 @@
 }
 
 
+
 @media all and (max-width: 767px){
   .col-xs-12{
     width: 100%;
@@ -93,6 +94,7 @@
   .col-xs-offset-1{
     margin-left: calc(100% / 12);
   }
+
 }
 
 @media all and (min-width: 768px) and (max-width: 991px){
